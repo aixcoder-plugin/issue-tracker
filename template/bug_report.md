@@ -19,6 +19,6 @@ To help us track your issue effectively, please make sure you've completed these
 
 A clear description of what the bug is,  and how the bug is produced if necessary.
 
-####Screenshots
+#### Screenshots
 
 If applicable, add screenshots to help describe your problem.
