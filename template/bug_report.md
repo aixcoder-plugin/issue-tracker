@@ -17,7 +17,7 @@ To help us track your issue effectively, please make sure you've completed these
 
 #### Describe the bug
 
-A clear description of what the bug is,  and how the bug is produced if necessary.
+A clear description of what the bug is, and how the bug is produced if necessary.
 
 #### Screenshots
 
