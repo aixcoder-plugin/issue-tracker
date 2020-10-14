@@ -1,17 +1,15 @@
 
 
-Please feel free to suggest improvements we can make to aiXcoder.  We will read carefully and consider implementing these improvements.
+Please feel free to suggest improvements to make aiXcoder better.  We will consider every suggestion seriously and carefully.
 
-| name    | descriptions    |
+| Field    | Description    |
 | ---- | ---- |
-| type    | feature request    |
-| title    | title for this request    |
+| Type    | Feature request    |
+| Title    | Title for this request    |
 
 
 
 #### Describe the request
 
-A clear description of what the improvements are,  and how can it help developers.
-
-
+A clear description of what the improvements are,  and how it could help.
 
