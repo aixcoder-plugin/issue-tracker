@@ -1,5 +1,5 @@
 # aiXcoder Issue Tracker
-This repository tracks user-reported issues for [aiXcoder](https://www.aixcoder.com/). 
+This repository tracks user-reported issues for [aiXcoder](https://aixcoder.com/en). 
 
 aiXcoder's code completion product consists
 of:
@@ -8,7 +8,7 @@ of:
 experience.
 - __Editor plugins__: aiXcoder provides integrations with a variety of IDEs and editors. These plugins call the aiXcoder local backend, and provide code prediction in the programming process.
 
-For new users, please [__download aiXcoder for free here__](https://www.aixcoder.com/#/Download).
+For new users, please [__download aiXcoder for free here__](https://aixcoder.com/en/#/Download).
 
 Or you can open an issue in this repository, if you have:
 
