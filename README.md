@@ -23,9 +23,9 @@ Or you can open an issue in this repository, if you have:
 When opening a bug report:
 
 - Please search for existing issues to find if someone else has reported your issue already. 
-- Please follow the provided template "bug_report.md".
+- Please follow the provided template "[bug_report.md](https://github.com/aixcoder-plugin/issue-tracker/blob/master/template/bug_report.md)".
 
 When requesting a new feature:
 
 - Please search for existing issues to make sure the new feature has not been requested yet. 
-- Please follow the provided template "feature_request.md".
+- Please follow the provided template "[feature_request.md](https://github.com/aixcoder-plugin/issue-tracker/blob/master/template/feature_request.md)".
